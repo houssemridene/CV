@@ -1,0 +1,8 @@
+@import "../components/ContactContenu.css";
+
+.contactcontenu {
+    margin-left: 650px;
+    margin-top: 150px;
+    position: absolute;
+    
+}

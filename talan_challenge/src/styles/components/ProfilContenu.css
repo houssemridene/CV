@@ -1,0 +1,73 @@
+
+
+
+.entete {
+    position: absolute;
+    z-index: 2;
+    font-size:200%;
+    margin-left: 250px;
+    font-family:system-ui;
+    margin-top: 20px;
+}
+.informations {
+    position: absolute;
+    margin-top: 300px;
+    margin-left:80px;
+    border:1px solid grey;
+    width:250px;
+    height:250px;
+    
+
+    
+}
+.informations ul {
+    list-style-type: none;
+}
+.informations b {
+    padding-top: 50px;
+}
+.cv {
+    position: absolute;
+    margin-top: 600px;
+    margin-left:490px;
+    
+}
+.cv .button {
+    background-color: DodgerBlue;
+    border: none;
+    
+    padding: 5px 5px;
+    cursor: pointer;
+    font-size: 10px;
+    border-radius:15%;
+  }
+
+.entete .petittitre {
+    text-align: center;
+}
+
+
+.image {
+    position: absolute;
+    margin-top: 300px;
+    margin-left:800px;
+    border:1px solid grey;
+    width:250px;
+    height: 250px;
+}
+.image img {
+height: 190px;
+width: 190px;
+padding:30px 25px 20px 29px ;
+}
+.description {
+    position: absolute;
+    margin-top: 300px;
+    margin-left:380px;
+    width:410px;
+    height:250px;
+}
+.description p {
+    line-height: 150%;
+}
+

@@ -1,0 +1,7 @@
+@import "../components/CompetencesContenu.css";
+
+.competencescontenu {
+    margin-left: 300px;
+    margin-top: 0px;
+    position: relative;
+}

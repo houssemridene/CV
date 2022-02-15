@@ -1,0 +1,8 @@
+@import "../components/ParcoursContenu.css";
+
+
+.parcourscontenu {
+    margin-left: 300px;
+    margin-top: 0px;
+    position: relative;
+}
